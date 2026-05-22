@@ -1,11 +1,25 @@
 # Pet_store
 
+## Оглавление
+
+- [О проекте](https://github.com/Svetlana-Lana-Lana/Pet_store/tree/main#%D0%BE-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B5)
+- [Задание 1](https://github.com/Svetlana-Lana-Lana/Pet_store/tree/main#%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-1-%D0%BF%D1%80%D0%B8%D1%81%D0%BB%D0%B0%D1%82%D1%8C-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0-%D0%BF%D0%BE-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8-%D0%B2-%D0%BE%D0%B1%D1%89%D0%B5%D0%BC-%D0%B2%D0%B8%D0%B4%D0%B5-%D0%BA%D0%B0%D0%BA-%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F-%D0%BA%D0%B0%D0%BA%D0%B8%D0%B5-%D1%81%D1%83%D1%89%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B5%D1%81%D1%82%D1%8C)
+- [Задание 2](https://github.com/Svetlana-Lana-Lana/Pet_store/tree/main#%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-2-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C-%D0%BE%D0%B4%D0%BD%D1%83-%D1%81%D1%83%D1%89%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%BD%D0%B0-%D0%B2%D1%8B%D0%B1%D0%BE%D1%80-%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%B2-%D0%BA%D0%B0%D0%BA%D0%B8%D0%B5-%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8F-%D0%BD%D0%B0%D0%B4-%D0%BD%D0%B5%D0%B9-%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE-%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D1%8C-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D1%83%D1%8F%D1%81%D1%8C-%D0%BD%D0%B0-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B)
+- [Задание 3](https://github.com/Svetlana-Lana-Lana/Pet_store/tree/main#%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-3-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C-%D0%BE%D0%B4%D0%B8%D0%BD-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81-%D0%B8%D0%B7-%D0%B2%D1%8B%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B9-%D1%81%D1%83%D1%89%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B0-%D0%B8%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE-%D0%BA%D0%B0%D0%BA-%D0%BE%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D1%82%D1%81%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BA%D0%B0%D0%BA%D0%B8%D0%B5-%D0%B5%D1%81%D1%82%D1%8C-%D0%BA%D0%BB%D1%8E%D1%87%D0%B8-%D0%BA%D0%B0%D0%BA%D0%B8%D0%B5-%D1%82%D0%B8%D0%BF%D1%8B-%D0%B8-%D0%B7%D0%B0-%D1%87%D1%82%D0%BE-%D0%BE%D1%82%D0%B2%D0%B5%D1%87%D0%B0%D1%8E%D1%82-%D1%8D%D1%82%D0%B8-%D0%BA%D0%BB%D1%8E%D1%87%D0%B8)
+- [Задание 4](https://github.com/Svetlana-Lana-Lana/Pet_store/tree/main#%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-4-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%B0%D0%BC%D0%B8-%D1%87%D0%B5%D1%80%D0%B5%D0%B7-swagger-%D0%BE%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C-%D0%BA%D0%BE%D1%80%D1%80%D0%B5%D0%BA%D1%82%D0%BD%D1%8B%D0%B5-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B-%D0%BD%D0%B0-5-%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D1%85-%D0%B5%D0%BD%D0%B4%D0%BF%D0%BE%D0%B8%D0%BD%D1%82%D0%BE%D0%B2-%D0%BE%D0%B1%D1%8A%D1%8F%D1%81%D0%BD%D0%B8%D1%82%D1%8C-%D0%BA%D0%B0%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D1%82%D1%81%D1%8F-%D0%B8-%D0%BA%D0%B0%D0%BA%D1%83%D1%8E-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B0%D0%B5%D0%BC-%D0%BF%D1%80%D0%B8%D1%81%D0%BB%D0%B0%D1%82%D1%8C-%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B-%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2)
+  - [1 запрос](https://github.com/Svetlana-Lana-Lana/Pet_store/tree/main#1-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81)
+  - [2 запрос](https://github.com/Svetlana-Lana-Lana/Pet_store/tree/main#2-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81)
+  - [3 запрос](https://github.com/Svetlana-Lana-Lana/Pet_store/tree/main#3-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81)
+  - [4 запрос](https://github.com/Svetlana-Lana-Lana/Pet_store/tree/main#%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81-4)
+  - [5 запрос](https://github.com/Svetlana-Lana-Lana/Pet_store/tree/main#%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81-5)
+- [Задание 5](https://github.com/Svetlana-Lana-Lana/Pet_store/tree/main#%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-5-%D0%B8%D0%BC%D0%BF%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-%D0%B2-postman-%D0%B8%D0%B7-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8-%D1%83%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%B8%D1%82%D1%8C%D1%81%D1%8F-%D1%87%D1%82%D0%BE-%D0%BE%D0%BD%D0%B8-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%8E%D1%82-%D0%B2%D1%81%D0%B5-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D1%8F%D1%82%D1%8C-%D0%BD%D0%B5-%D0%BD%D1%83%D0%B6%D0%BD%D0%BE-%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE-%D0%B2%D0%B7%D1%8F%D1%82%D1%8C-2-3-%D0%BD%D0%B0-%D0%B2%D1%8B%D0%B1%D0%BE%D1%80-%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%81%D1%82%D0%B8-%D0%B8%D1%85-%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B5%D0%BC%D1%83-%D0%B2%D0%B8%D0%B4%D1%83-%D0%BF%D1%80%D0%B8-%D0%BD%D0%B5%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8-%D0%B8-%D0%B2%D1%8B%D0%B3%D1%80%D1%83%D0%B7%D0%B8%D1%82%D1%8C-%D0%BA%D0%BE%D1%80%D1%80%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5-%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%BD%D0%B8%D0%BA%D1%83)
+
 ## О проекте
 
 В данном проекте выполнен ряд заданий по исследованию API сайта https://petstore.swagger.io/. 
 Сайт является демонстрационным API для тестирования и изучения работы с REST-сервисами через Swagger UI, а также через Postman.
 
-## Задание 1. Прислать описание проекта по документации в общем виде. Как авторизоваться, какие сущности есть.
+## Задание 1. Написать описание проекта по документации в общем виде. Как авторизоваться, какие сущности есть.
 
 Проект представляет собой магазин домашних животных.
 
@@ -56,7 +70,7 @@ Json может включать в себя следующие ключи:
 
 В ответе приходит json с обновленной информацией о домашнем животном.
 
-## Задание 4. Работа с запросами через Swagger. Отправить корректные запросы на 5 разных ендпоинтов. Объяснить какая информация отправляется и какую получаем. Прислать скрины выполненных запросов.
+## Задание 4. Работа с запросами через Swagger. Отправить корректные запросы на 5 разных эндпоинтов. Объяснить какая информация отправляется и какую получаем. Приложить скрины выполненных запросов.
 
 ### 1 запрос
 
@@ -74,6 +88,7 @@ GET https://petstore.swagger.io/v2/pet/findByStatus
 - 200 – в случае успешного запроса;
 - 400 – в случае неверного значения статуса.
 
+![get_findByStatus](https://github.com/Svetlana-Lana-Lana/Pet_store/blob/main/screenshots/get_findByStatus.png)
 
 ### 2 запрос
 
@@ -88,7 +103,8 @@ GET https://petstore.swagger.io/v2/store/inventory
 Возможные коды ответов:
 - 200 – в случае успешного запроса.
 
- 
+![get_inventory](https://github.com/Svetlana-Lana-Lana/Pet_store/blob/main/screenshots/get_inventory.png)
+
 ### 3 запрос
 
 Создание пользователя
@@ -102,8 +118,9 @@ POST https://petstore.swagger.io/v2/user
 Возможные коды ответов:
 - 200 – в случае успешного запроса. 
 
+![createUser](https://github.com/Svetlana-Lana-Lana/Pet_store/blob/main/screenshots/post_createUser.png)
 
-### Запрос 4
+### 4 запрос
 
 Авторизация пользователя в системе
 
@@ -119,8 +136,9 @@ GET https://petstore.swagger.io/v2/user/login
 - 200 – в случае успешного запроса;
 - 400 – в случае ошибочных данных в параметрах имя пользователя и/или пароль.
 
+![login](https://github.com/Svetlana-Lana-Lana/Pet_store/blob/main/screenshots/get_login.png)
 
-### Запрос 5
+### 5 запрос
 
 Размещение заказа в магазине.
 
@@ -134,7 +152,9 @@ POST https://petstore.swagger.io/v2/store/order
 - 200 – в случае успешного запроса; 
 - 400 – в случае ошибочных данных в заказе.
 
-## Задание 5. Импортировать коллекции в Postman из документации. Удостовериться, что они работают (все проверять не нужно, можно взять 2-3 на выбор). Привести их рабочему виду (при необходимости) и выгрузить корректно работающие коллекции наставнику.
+![makeAnOrder](https://github.com/Svetlana-Lana-Lana/Pet_store/blob/main/screenshots/post_makeAnOrder.png)
+
+## Задание 5. Импортировать коллекции в Postman из документации. Удостовериться, что они работают (все проверять не нужно, можно взять 2-3 на выбор). Привести их рабочему виду (при необходимости) и выгрузить корректно работающие коллекции.
 
 Проверила запросы:
 
@@ -152,7 +172,7 @@ Find purchase order by ID
 
 Delete purchase order by ID
 
-Коллекцию запросов можно расположена здесь [посмотреть коллекцию сапросов]()
+Коллекция запросов расположена здесь [посмотреть коллекцию запросов](https://github.com/Svetlana-Lana-Lana/Pet_store/blob/main/Swagger%20Petstore.postman_collection.json)
 
 
 
